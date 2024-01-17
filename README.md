@@ -75,4 +75,4 @@ The Laravel Library Management System is a web application built with Laravel an
 
 9. Access the application in your browser at http://localhost:8000.
 
-Any further information please contact Luigi Fernando Barraza Di Filippo at luigibarraza01@gmail.com
+## Any further information please contact Luigi Fernando Barraza Di Filippo at luigibarraza01@gmail.com
