@@ -47,3 +47,32 @@ The Laravel Library Management System is a web application built with Laravel an
    ```bash
    cd library-management-system
 
+2. Install PHP dependencies:
+    ```bash
+    composer install
+    
+3. Create a copy of the .env.example file and rename it to .env:
+    ```bash
+    cp .env.example .env
+
+4. Generate the application key:
+   ```bash
+   php artisan key:generate
+
+5. Configure the database settings in the .env file.
+   
+6. Run the database migrations:
+   ```bash
+   php artisan migrate
+   
+7. (Optional) Seed the database with demo data:
+   ```bash
+   php artisan db:seed
+
+8. Start the development server:
+   ```bash
+   php artisan serve
+
+9. Access the application in your browser at http://localhost:8000.
+
+Any further information please contact Luigi Fernando Barraza Di Filippo at luigibarraza01@gmail.com
