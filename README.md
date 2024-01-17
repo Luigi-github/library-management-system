@@ -44,5 +44,6 @@ The Laravel Library Management System is a web application built with Laravel an
    git clone https://github.com/your-username/library-management-system.git
 
 1. Navigate to the project directory:
+   ```bash
    cd library-management-system
 
